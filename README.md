@@ -23,17 +23,15 @@ O projeto possui como tema central a resolução de exercícios de programação
 
 ## Screenshots
 
-### Exercício 01
+### Exercício 01 - [1130. Minimum Cost Tree From Leaf Values](https://github.com/projeto-de-algoritmos-2025/Greed_LeetCode-D17/blob/master/1130_Minimum_Cost_Tree_From_Leaf_Values/solution.cpp) - Médio
 
-<!--
 <div align="center">
-  <img src="" />
+  <img src="1130_Minimum_Cost_Tree_From_Leaf_Values/image.png" />
   <br/>
-  <a href="">
-    Visualizar submissão do exercício ---
+  <a href="https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/submissions/1799779651/">
+    Visualizar submissão do exercício 1130
   </a>
 </div>
--->
 
 ### Exercício 02
 
