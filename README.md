@@ -16,7 +16,8 @@ O projeto possui como tema central a resolução de exercícios de programação
 
 | Exercício | Nível  | Vídeo Explicando |
 |---------|--------|------------------|
-|         |        |                  |
+| [1130. Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/description/) | Médio |  |
+| [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) | Difícil |  |
 
 [Vídeo explicando todos os exercícios]()
 
