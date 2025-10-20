@@ -47,7 +47,7 @@ O projeto possui como tema central a resolução de exercícios de programação
 </div>
 
 
-### Exercício 03
+### Exercício 03 - [11. Container With Most Water](https://github.com/projeto-de-algoritmos-2025/Greed_LeetCode-D17/tree/master/11_Container_With_Most_Water/solution.cpp) - Médio
 
 <div align="center">
   <img src="11_Container_With_Most_Water/image.png" />
@@ -57,7 +57,7 @@ O projeto possui como tema central a resolução de exercícios de programação
   </a>
 </div>
 
-### Exercício 04
+### Exercício 04 - [135. Candy](https://github.com/projeto-de-algoritmos-2025/Greed_LeetCode-D17/blob/master/135_Candy/solution.cpp) - Difícil
 
 <div align="center">
   <img src="135_Candy/image.png" />
