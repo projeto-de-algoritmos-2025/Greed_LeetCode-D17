@@ -33,17 +33,17 @@ O projeto possui como tema central a resolução de exercícios de programação
   </a>
 </div>
 
-### Exercício 02
+### Exercício 02 - [1235. Maximum Profit in Job Scheduling](https://github.com/projeto-de-algoritmos-2025/Greed_LeetCode-D17/blob/master/1235_Maximum_Profit_in_Job_Scheduling/solution.cpp) - Difícil
 
-<!--
+
 <div align="center">
-  <img src="" />
+  <img src="1235_Maximum_Profit_in_Job_Scheduling/image.png" />
   <br/>
-  <a href="">
-    Visualizar submissão do exercício ---
+  <a href="https://leetcode.com/problems/maximum-profit-in-job-scheduling/submissions/1806349931">
+    Visualizar submissão do exercício 1235
   </a>
 </div>
--->
+
 
 ### Exercício 03
 
