@@ -16,12 +16,12 @@ O projeto possui como tema central a resolução de exercícios de programação
 
 | Exercício | Nível  | Vídeo Explicando |
 |---------|--------|------------------|
-| [1130. Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/description/) | Médio |  |
-| [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) | Difícil |  |
-| [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | Médio |  |
-| [135. Candy](https://leetcode.com/problems/candy/) | Difícil |  |
+| [1130. Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/description/) | Médio | https://youtu.be/iplIBIXb32w |
+| [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) | Difícil | https://youtu.be/iplIBIXb32w?si=otxP-7xP58t2UeBw&t=95 |
+| [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | Médio | https://youtu.be/iplIBIXb32w?si=DIVtcKeYw5eKxruH&t=200 |
+| [135. Candy](https://leetcode.com/problems/candy/) | Difícil | https://youtu.be/iplIBIXb32w?si=l8diHjCvwe_J_RHe&t=410 |
 
-[Vídeo explicando todos os exercícios]()
+[Vídeo explicando todos os exercícios](https://youtu.be/iplIBIXb32w)
 
 ## Screenshots
 
